@@ -4,7 +4,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/industrial-header.jpg # You can add a placeholder image here later
+  overlay_image: /assets/images/bio-photo.jpg # You can add a placeholder image here later
   caption: "High-stakes AI for Mission-Critical Systems."
 excerpt: "Bridging the gap between experimental R&D and industrial execution."
 ---
