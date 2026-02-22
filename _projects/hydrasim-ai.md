@@ -1,5 +1,6 @@
 ---
 title: "HydraSim: Physics-Informed Hydraulic Intelligence"
+mathjax: true
 excerpt: "Hybrid AI agents that combine deep learning with physical constraints for industrial fluid power systems."
 header:
   teaser: /assets/images/hydrasim-teaser.jpg
