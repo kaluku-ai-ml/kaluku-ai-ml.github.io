@@ -31,8 +31,6 @@ Optimizing yield in advanced nodes requires more than standard computer vision. 
 #### **II. Energy & Smart Grids**
 At the grid edge, reliability is paramount. We develop ML-driven predictive maintenance and signal processing models designed to operate in harsh, high-variability environments.
 
-#### **III. Healthcare & Life Sciences**
-Removing subjectivity from clinical diagnostics through automated, high-precision CV models. We focus on probabilistic verification to support diagnostic accuracy and clinical outcomes.
 
 ---
 
