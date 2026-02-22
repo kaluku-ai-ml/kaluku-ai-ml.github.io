@@ -1,0 +1,17 @@
+css
+/* Darken main content area */
+.page,
+.page__content,
+.wrap,
+#main {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+/* Darken code blocks */
+.highlighter-rouge,
+pre,
+code {
+  background-color: #1a1a1a !important;
+  color: #f0f0f0;
+}
