@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kaluku AI"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Applying Silicon Valley Rigor to Semiconductor, Energy, and Healthcare AI."
+  bio    : "Applying Silicon Valley Rigor to Semiconductor and Energy AI."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
