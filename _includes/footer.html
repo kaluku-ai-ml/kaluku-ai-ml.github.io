@@ -1,0 +1,15 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.navigation.footer.links %}
+      {% for link in site.data.navigation.footer.links %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  &copy; 2026 <strong>Kaluku AI</strong>. All rights reserved.
+  <br>
+  <small>Industrial-Grade Intelligence & Vision R&D Lab</small>
+</div>
