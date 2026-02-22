@@ -1,14 +1,16 @@
 ---
-layout: home
+layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bio-photo.jpg # You can add a placeholder image here later
+  overlay_image: /assets/images/bio-photo.jpg
   caption: "High-stakes AI for Mission-Critical Systems."
 excerpt: "Bridging the gap between experimental R&D and industrial execution."
 ---
 
+## Mission: Closing the Gap
+... (rest of your content)
 ## Mission: Closing the Gap
 
 Kaluku AI is a specialized R&D lab dedicated to the deployment of **Industrial-Grade Artificial Intelligence.** We do not build wrappers; we architect proprietary technical moats for environments where "good enough" is a failure.
