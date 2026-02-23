@@ -1,6 +1,6 @@
 ---
 title: "PV-Layout: Geometric Yield Optimization"
-math: true
+layout: single
 mathjax: true 
 excerpt: "Automated computational geometry for high-density solar array placement on complex industrial rooftops."
 header:
