@@ -1,6 +1,6 @@
 ---
 title: "Sub-pixel Defect Detection"
-math: true
+layout: single
 mathjax: true 
 excerpt: "Using Attention-gated U-Nets for SEM imagery."
 header:
