@@ -1,5 +1,7 @@
 ---
 title: "Sub-pixel Defect Detection"
+math: true
+mathjax: true 
 excerpt: "Using Attention-gated U-Nets for SEM imagery."
 header:
   teaser: /assets/images/semiconductor-yield-teaser.jpg
