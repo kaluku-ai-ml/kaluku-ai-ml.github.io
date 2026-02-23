@@ -1,0 +1,7 @@
+/* Force project teaser images to show fully without cropping */
+.archive__item-teaser {
+  height: 250px; /* Sets a uniform height for alignment */
+  width: 100%;
+  object-fit: contain !important; /* This is the magic line that stops the cropping */
+  background-color: #000; /* Fills the empty space with black to match dark mode */
+}
