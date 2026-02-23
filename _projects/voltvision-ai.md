@@ -1,5 +1,7 @@
 ---
 title: "VoltVision AI: Automated Utility Integrity"
+math: true
+mathjax: true
 excerpt: "Edge-AI for high-precision power line and vegetation encroachment detection."
 header:
   teaser: /assets/images/voltvision-teaser.jpg # Placeholder for an image later
