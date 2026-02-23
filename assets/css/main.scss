@@ -1,0 +1,6 @@
+/* Ensure project teaser images show the full image without cropping */
+.archive__item-teaser {
+  max-height: 300px; 
+  object-fit: contain !important;
+  background-color: transparent; /* Or use #f2f3f3 to match the background */
+}
