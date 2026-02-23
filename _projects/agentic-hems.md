@@ -1,6 +1,6 @@
 ---
 title: "Agentic HEMS: LLM-Driven Grid Flexibility"
-math: true
+layout: single
 mathjax: true 
 excerpt: "A multi-agent framework using LLMs to autonomously coordinate residential load scheduling and price-responsive demand."
 header:
