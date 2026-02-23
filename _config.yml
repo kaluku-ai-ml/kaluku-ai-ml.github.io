@@ -21,6 +21,7 @@ description: "Industrial Intelligence & Vision R&D Lab."
 twitter_username: username
 github_username: kaluku-ai-ml
 minimal_mistakes_skin: "dark"
+mathjax: true
 search: true
 
 # Build settings
@@ -94,3 +95,4 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+    mathjax: true
