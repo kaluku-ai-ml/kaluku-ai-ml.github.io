@@ -2,6 +2,8 @@
 title: "Agentic HEMS: LLM-Driven Grid Flexibility"
 math: true
 excerpt: "A multi-agent framework using LLMs to autonomously coordinate residential load scheduling and price-responsive demand."
+header:
+  teaser: /assets/images/agentic-hems-teaser.jpg
 ---
 
 ### The Challenge: Interaction Complexity
