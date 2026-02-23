@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kaluku AI
+logo: "/assets/images/kaluku-logo.jpg"
 #Name: Vikram Sivakumar, PhD
 email:
 description: "Industrial Intelligence & Vision R&D Lab."
@@ -58,7 +59,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/kaluku-logo.jpg"
 author:
   name   : "Kaluku AI"
   avatar : "/assets/images/bio-photo.jpg"
