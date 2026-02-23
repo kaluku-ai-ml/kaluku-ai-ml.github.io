@@ -18,7 +18,7 @@ We developed a **vector-based layout engine** that automates the placement of PV
 
 $$d = w \cdot \frac{\cos(180 - \beta)}{\sin(\alpha)}$$
 
-*Where $$w$$is the module width,$$\beta$$is the tilt angle, and$$\alpha$$ is the sun's elevation.*
+*Where $$w$$ is the module width, $$\beta$$ is the tilt angle, and $$\alpha$$ is the sun's elevation.*
 
 ### Technical Highlights
 - **Performance:** Reduced design time from hours to seconds for 1MW+ sites.
