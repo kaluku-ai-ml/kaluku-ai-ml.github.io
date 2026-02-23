@@ -1,6 +1,7 @@
 ---
 title: "Digital Twin: High-Fidelity Energy Simulation"
 math: true
+mathjax: true 
 excerpt: "A Python-based simulation engine for modeling the interaction between PV generation, battery storage, and stochastic residential loads."
 header:
   teaser: /assets/images/home-energy-simulator-teaser.jpg
