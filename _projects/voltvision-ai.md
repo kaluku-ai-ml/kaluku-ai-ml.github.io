@@ -1,6 +1,6 @@
 ---
 title: "VoltVision AI: Automated Utility Integrity"
-math: true
+layout: single
 mathjax: true
 excerpt: "Edge-AI for high-precision power line and vegetation encroachment detection."
 header:
