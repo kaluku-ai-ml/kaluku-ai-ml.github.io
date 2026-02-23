@@ -85,7 +85,7 @@ defaults:
       layout: single
       author_profile: true
       mathjax: true
-- scope:
+  - scope:
       path: ""
       type: projects
     values:
