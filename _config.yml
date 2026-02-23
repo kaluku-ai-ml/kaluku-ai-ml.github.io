@@ -58,6 +58,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: "/assets/images/kaluku-logo.png"
 author:
   name   : "Kaluku AI"
   avatar : "/assets/images/bio-photo.jpg"
