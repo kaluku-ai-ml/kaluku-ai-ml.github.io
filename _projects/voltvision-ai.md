@@ -34,10 +34,13 @@ $$J(A, B) = \frac{|A \cap B|}{|A \cup B|}$$
 ### Interactive Demonstration
 We have developed a live inference application to demonstrate the model's capability in real-world scenarios. 
 
-<video width="100%" controls>
-  <source src="{{ '/assets/videos/voltvision-demo.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="max-width: 800px; margin: 0 auto;">
+  <video width="100%" style="max-height: 70vh; outline: none;" controls>
+    <source src="{{ '/assets/videos/voltvision-demo.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ---
 
 ### Implementation & ROI
