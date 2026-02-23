@@ -2,9 +2,7 @@
 title: "Sub-pixel Defect Detection"
 excerpt: "Using Attention-gated U-Nets for SEM imagery."
 header:
-  overlay_image: /assets/images/semiconductor-yield-teaser.jpg
-  overlay_filter: 0.5 # Dim the image to make text pop
-  teaser: /assets/images/kaluku-logo.jpg
+  teaser: /assets/images/semiconductor-yield-teaser.jpg
 ---
 ### The Problem
 Reducing False Alarm Rates ($P_{FA}$) in 14nm fabrication.
