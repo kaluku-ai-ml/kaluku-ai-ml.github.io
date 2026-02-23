@@ -85,6 +85,13 @@ defaults:
       layout: single
       author_profile: true
       mathjax: true
+- scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      mathjax: true
 category_archive:
   type: liquid
   path: /categories/
